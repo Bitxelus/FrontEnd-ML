@@ -3,7 +3,6 @@ var carousel = new ch.Carousel(ch('.demo-carousel')[0], {});
 
 //Tabs de descripcion y comentarios
 var tabs = new ch.Tabs(ch(".descripcion-tabs")[0]);
-tabs.show(2);
 
 //Valores cantidad y pagos
 var cantidadDeProductos = 9;
