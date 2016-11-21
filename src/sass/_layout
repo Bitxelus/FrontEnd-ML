@@ -1,0 +1,32 @@
+//Variables
+$ancho-main: 850px;
+
+//Estilos
+main{
+  width: $ancho-main;
+  margin: 0 auto;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #777;
+}
+
+.imagen-producto{
+  float: left;
+  img {
+    display: block;
+    width: 350px;
+    height: 350px;
+  }
+}
+
+.info-producto{
+  margin-left: 70px;
+  position: relative;
+  top: 20px;
+  width: 50%;
+  float: left;
+}
+
+.descripcion{
+  width: $ancho-main;
+  margin: 0 auto;
+}

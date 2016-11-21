@@ -1,0 +1,36 @@
+.precio-producto{
+  font-size: 2em;
+  font-weight: bold;
+  color: #900;
+}
+.cantidad-producto label{
+  margin-right: 20px;
+}
+.pagos-producto label{
+  margin-right: 10px;
+}
+.lista{
+  margin-top: 10px;
+}
+.comprar{
+  margin-top: 25px;
+}
+.comprar .ch-btn-large{
+  width: 4em;
+  box-shadow: 3px 2px 2px #000;
+}
+.mensaje-notown{
+  margin-top: 5px;
+  color: #888;
+}
+.productos-relacionados{
+  margin-top: 45px;
+}
+.slider{
+  width: 80%;
+  height: 75px;
+  overflow: hidden;
+  img {
+    height:75px;
+  }
+}

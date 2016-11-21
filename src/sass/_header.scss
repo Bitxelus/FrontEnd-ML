@@ -1,0 +1,9 @@
+$tamano-fuente: 2.3em;
+
+.titulo-producto {
+  padding: 0.5em 0;
+  h1{
+    font-size: $tamano-fuente;
+    line-height: 1.2em;
+  }
+}
